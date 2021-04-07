@@ -3,8 +3,11 @@
 I'm Rafael Guzmán and I'm a web developer, living in Rio de Janeiro, Brazil.
 
 Contact-me on: 
-[![LinkedIn](https://github.com/rqguzman/assets/blob/main/ColoredBadges/svg/social/linkedin.svg)](https://www.linkedin.com/in/rafaelqguzman/)
+<p>
+  
+  [![LinkedIn](https://github.com/rqguzman/assets/blob/main/ColoredBadges/svg/social/linkedin.svg)](https://www.linkedin.com/in/rafaelqguzman/)
 
+</p>
 <details>
   <summary><b>About me: </b> <i>(click to expand!)</i> </summary>
   
